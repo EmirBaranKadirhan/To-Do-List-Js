@@ -12,3 +12,5 @@ Teknolojiler:
 * HTML5
 * CSS (Bootstrap)
 * JavaScript
+
+![Uygulama Ici Ekran Goruntusu](img/toDoListUygulamaIciResim.PNG)
