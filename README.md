@@ -9,6 +9,6 @@ Bu projede, kullanıcıların yapılacak görevlerini ekleyip düzenleyebilecekl
 - Uygulamanın sade ve şık tasarımı
 
 Teknolojiler:
-HTML5
-CSS (Bootstrap)
-JavaScript
+* HTML5
+* CSS (Bootstrap)
+* JavaScript
